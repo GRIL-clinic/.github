@@ -8,9 +8,9 @@ We also develop tools! You can find them in our organization.
 
 ### Our tools
 
-Olladoc: translation made local, private and customizable   
-  
-Need to translate sensitive information and don’t want private material sent to third-parties via on-line translation tools? Olladoc is a completely free translation tool designed by human rights data scientists for anyone who values data privacy: from social justice advocates to grassroot organizations to everyday users. Your data never leaves your local computer!  
+🦙 Olladoc: translation made local, private and customizable.   
+
+Do you need to translate sensitive information and you don’t want private material sent to third-parties via on-line translation tools? Olladoc is a completely free translation tool designed by human rights data scientists for anyone who values data privacy: from social justice advocates to grassroot organizations to everyday users. Your data never leaves your local computer!  
   
 Why should you use Olladoc?  
 
