@@ -1,5 +1,5 @@
-# .github
-Global Rights Innovation Lab Clinic
+# Global Rights Innovation Lab Clinic
+
 
 The Global Rights Innovation Lab Clinic (GRIL) stands at the cutting edge of global rights advocacy, strategically leveraging the power of technology to drive evidence-based justice. Our mission is to revolutionize how rights are protected and enforced in the digital age.
 
